@@ -5,9 +5,9 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
+    { title: '欢迎来到我的博客lxp.lol', url: 'lxp.lol' },
     { title: 'B站老斜坡', url: 'https://space.bilibili.com/396425978?spm_id_from=333.1007.0.0' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '获取更多帮助', url: 'https://space.bilibili.com/396425978?spm_id_from=333.1007.0.0' }
   ],
 
   // 英雄区(首页顶部大卡)
@@ -38,7 +38,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://space.bilibili.com/396425978?spm_id_from=333.1007.0.0', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -104,7 +104,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: 'https://space.bilibili.com/396425978?spm_id_from=333.1007.0.0',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
